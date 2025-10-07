@@ -1,3 +1,22 @@
+@import url(./blocks/promo/promo.css);
+
+@import url(./blocks/invite/invite.css);
+@import url(./blocks/invite/__skroll-block/invite__skroll-block.css);
+@import url(./blocks/invite/__marryned/invite__marryned.css);
+@import url(./blocks/invite/__text/invite__text.css);
+@import url(./blocks/invite/__date/invite__date.css);
+
+@import url(./blocks/timer/timer.css);
+@import url(./blocks/timer/__title/timer__title.css);
+
+@import url(./blocks/margin-none/margin-none.css);
+@import url(./blocks/mx-auto/mx-auto.css);
+
+@import url(./blocks/fw/fw-600.css);
+@import url(./blocks/fs/fs-32.css);
+@import url(./blocks/fs/fs-24.css);
+@import url(./blocks/fs/fs-20.css);
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
