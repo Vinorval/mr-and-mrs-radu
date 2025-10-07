@@ -1,0 +1,11 @@
+.background-gradient {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(723px 813px at -5% 135%, rgba(184, 125, 88, 1) 0%, rgba(184, 125, 88, 0) 100%),
+                radial-gradient(564px 494px at 94% 5%, rgba(151, 193, 229, 0.55) 0%, rgba(151, 193, 229, 0) 100%);
+}

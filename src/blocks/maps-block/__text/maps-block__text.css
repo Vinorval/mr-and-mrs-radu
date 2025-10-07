@@ -1,0 +1,5 @@
+.maps-block__text {
+    text-align: start;
+    display: grid;
+    gap: 8px;
+}

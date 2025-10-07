@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 
 import Promo from '../promo/Promo';
+import Maps from '../maps/Maps';
 
 function App() {
   const targetDate = new Date('2026-01-16T12:00:00');
@@ -27,6 +28,7 @@ function App() {
   return (
     <div className="App">
       <Promo timer={timeLeft} />
+      <Maps />
     </div>
   );
 }

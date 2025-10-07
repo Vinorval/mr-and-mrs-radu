@@ -9,13 +9,25 @@
 @import url(./blocks/timer/timer.css);
 @import url(./blocks/timer/__title/timer__title.css);
 
+@import url(./blocks/maps-section/maps-section.css);
+@import url(./blocks/maps-block/maps-block.css);
+@import url(./blocks/maps-block/__map/maps-block__map.css);
+@import url(./blocks/maps-block/__text/maps-block__text.css);
+
+@import url(./blocks/adress/adress.css);
+@import url(./blocks/adress/__title/adress__title.css);
+@import url(./blocks/adress/__adress/adress__adress.css);
+
 @import url(./blocks/margin-none/margin-none.css);
 @import url(./blocks/mx-auto/mx-auto.css);
 
 @import url(./blocks/fw/fw-600.css);
+@import url(./blocks/fw/fw-400.css);
 @import url(./blocks/fs/fs-32.css);
 @import url(./blocks/fs/fs-24.css);
 @import url(./blocks/fs/fs-20.css);
+
+@import url(./blocks/background-gradient/background-gradient.css);
 
 body {
   margin: 0;

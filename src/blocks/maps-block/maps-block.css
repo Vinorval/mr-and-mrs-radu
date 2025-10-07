@@ -1,0 +1,7 @@
+.maps-block {
+    display: grid;
+    justify-items: center;
+    width: 95%;
+    margin: auto;
+    gap: 14px;
+}
