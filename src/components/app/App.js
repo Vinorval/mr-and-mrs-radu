@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 
 import Promo from '../promo/Promo';
+import Newlyweds from '../newlyweds/Newlyweds';
 import Maps from '../maps/Maps';
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
   return (
     <div className="App">
       <Promo timer={timeLeft} />
+      <Newlyweds />
       <Maps />
     </div>
   );

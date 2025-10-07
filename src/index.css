@@ -18,6 +18,16 @@
 @import url(./blocks/adress/__title/adress__title.css);
 @import url(./blocks/adress/__adress/adress__adress.css);
 
+@import url(./blocks/newlyweds/newlyweds.css);
+@import url(./blocks//newlyweds/__card/newlyweds__card.css);
+@import url(./blocks/newlyweds/__photo-block/newlyweds__photo-block.css);
+@import url(./blocks/newlyweds/__photo/newlyweds__photo.css);
+@import url(./blocks/newlyweds/__arrou/newlyweds__arrou.css);
+@import url(./blocks/newlyweds/__name/newlyweds__name.css);
+@import url(./blocks/newlyweds/__card/newlyweds__card_second.css);
+@import url(./blocks/newlyweds/__indicator/newlyweds__indicator.css);
+@import url(./blocks/newlyweds/__indicator/newlyweds__indicator_second.css);
+
 @import url(./blocks/margin-none/margin-none.css);
 @import url(./blocks/mx-auto/mx-auto.css);
 

@@ -1,0 +1,11 @@
+.newlyweds__photo-block {
+    width: 72%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 17px;
+    gap: 12px;
+    margin: auto;
+    transform: rotate(-5deg);
+}
