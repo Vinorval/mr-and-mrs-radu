@@ -28,6 +28,21 @@
 @import url(./blocks/newlyweds/__indicator/newlyweds__indicator.css);
 @import url(./blocks/newlyweds/__indicator/newlyweds__indicator_second.css);
 
+@import url(./blocks/rules-section/rules-section.css);
+@import url(./blocks/cards-block/cards-block.css);
+@import url(./blocks/cards-block/__list/cards-block__list.css);
+@import url(./blocks/card/__colors/card__colors.css);
+@import url(./blocks/card/__circle/card__circle.css);
+@import url(./blocks/card/__colors/_color/card__circle_color_blue.css);
+@import url(./blocks/card/__colors/_color/card__circle_color_dark.css);
+@import url(./blocks/card/__colors/_color/card__circle_color_grey.css);
+@import url(./blocks/card/__colors/_color/card__circle_color_brown.css);
+@import url(./blocks/card/__colors/_color/card__circle_color_light.css);
+
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/_type/card_type_small.css);
+@import url(./blocks/card/_type/card_type_big.css);
+
 @import url(./blocks/margin-none/margin-none.css);
 @import url(./blocks/mx-auto/mx-auto.css);
 

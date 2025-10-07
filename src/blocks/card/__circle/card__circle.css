@@ -1,0 +1,6 @@
+.card__circle {
+    width: 32px;
+    height: 32px;
+    border: black solid;
+    border-radius: 50%;
+}
