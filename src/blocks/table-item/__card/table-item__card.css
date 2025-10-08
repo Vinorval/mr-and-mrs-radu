@@ -1,0 +1,11 @@
+.table-item__card {
+    background-color: #E7F0F9;
+    border-radius: 6px;
+    padding: 14px;
+    width: 80%;
+    max-width: 440px;
+    margin: auto;
+    text-align: start;
+    display: grid;
+    gap: 10px;
+}

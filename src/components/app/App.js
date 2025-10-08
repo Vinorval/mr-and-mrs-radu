@@ -4,6 +4,7 @@ import Promo from '../promo/Promo';
 import Newlyweds from '../newlyweds/Newlyweds';
 import Maps from '../maps/Maps';
 import Ruls from '../rules/Rules';
+import Table from '../table/Tabel';
 
 function App() {
   const targetDate = new Date('2026-01-16T12:00:00');
@@ -32,6 +33,7 @@ function App() {
       <Promo timer={timeLeft} />
       <Newlyweds />
       <Maps />
+      <Table />
       <Ruls />
     </div>
   );

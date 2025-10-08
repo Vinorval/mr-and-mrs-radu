@@ -39,6 +39,15 @@
 @import url(./blocks/card/__colors/_color/card__circle_color_brown.css);
 @import url(./blocks/card/__colors/_color/card__circle_color_light.css);
 
+@import url(./blocks/table-section/table-section.css);
+@import url(./blocks/day/day.css);
+@import url(./blocks/teble-container/teble-container.css);
+@import url(./blocks/line/line.css);
+@import url(./blocks/table-item/table-item.css);
+@import url(./blocks/table-item/__indicator/table-item__indicstor.css);
+@import url(./blocks/table-item/__card/table-item__card.css);
+@import url(./blocks/call-popup/call-popup.css);
+
 @import url(./blocks/card/card.css);
 @import url(./blocks/card/_type/card_type_small.css);
 @import url(./blocks/card/_type/card_type_big.css);

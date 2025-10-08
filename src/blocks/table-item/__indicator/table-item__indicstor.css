@@ -1,0 +1,9 @@
+.table-item__indicstor {
+    width: 16px;
+    height: 16px;
+    background: #8890A5;
+    position: absolute;
+    left: calc(50% - 8px);
+    top: -8px;
+    border-radius: 50%;
+}
