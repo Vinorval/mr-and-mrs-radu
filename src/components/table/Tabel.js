@@ -6,8 +6,8 @@ const Table = () => {
                 <h3 className="margin-none fw-400 fs-20">15 января, четверг</h3>
                 <ul className="teble-container">
                     <div className="line"></div>
-                    <li className="table-item">
-                        <div className="table-item__indicstor"></div>
+                    <li className="table-item table-item_reverse">
+                        <div className="table-item__indicstor table-item__indicstor_reverse"></div>
                         <div className="table-item__card">
                             <p className="margin-none">После 14:00</p>
                             <p className="margin-none">Заезд для всех желающих. Это свободный день — можете гулять по городу, отдыхать.</p>
@@ -26,8 +26,8 @@ const Table = () => {
                             <p className="margin-none">Роспись в ЗАГСе</p>
                         </div>
                     </li>
-                    <li className="table-item">
-                        <div className="table-item__indicstor"></div>
+                    <li className="table-item table-item_reverse">
+                        <div className="table-item__indicstor table-item__indicstor_reverse"></div>
                         <div className="table-item__card">
                             <p className="margin-none">12:30 - 15:30</p>
                             <p className="margin-none">Party-bus с фуршетом</p>
@@ -41,8 +41,8 @@ const Table = () => {
                             <p className="margin-none">Свободное время: возможность переодеться, сделать фото на полароид в зоне пожеланий, снять забавные видео</p>
                         </div>
                     </li>
-                    <li className="table-item">
-                        <div className="table-item__indicstor"></div>
+                    <li className="table-item table-item_reverse">
+                        <div className="table-item__indicstor table-item__indicstor_reverse"></div>
                         <div className="table-item__card">
                             <p className="margin-none">17:00 - 22:00</p>
                             <p className="margin-none">Праздничный банкет</p>
@@ -61,8 +61,8 @@ const Table = () => {
                 <h3 className="margin-none fw-400 fs-20">17 января, суббота</h3>
                 <ul className="teble-container">
                     <div className="line"></div>
-                    <li className="table-item">
-                        <div className="table-item__indicstor"></div>
+                    <li className="table-item table-item_reverse">
+                        <div className="table-item__indicstor table-item__indicstor_reverse"></div>
                         <div className="table-item__card">
                             <p className="margin-none">10:00</p>
                             <p className="margin-none">Завтрак</p>
@@ -75,8 +75,8 @@ const Table = () => {
                             <p className="margin-none">Сауна и бассейн</p>
                         </div>
                     </li>
-                    <li className="table-item">
-                        <div className="table-item__indicstor"></div>
+                    <li className="table-item table-item_reverse">
+                        <div className="table-item__indicstor table-item__indicstor_reverse"></div>
                         <div className="table-item__card">
                             <p className="margin-none">14:00</p>
                             <p className="margin-none">Шашлык и плов</p>
@@ -96,8 +96,8 @@ const Table = () => {
                 <h3 className="margin-none fw-400 fs-20">18 января, воскресенье</h3>
                 <ul className="teble-container">
                     <div className="line"></div>
-                    <li className="table-item">
-                        <div className="table-item__indicstor"></div>
+                    <li className="table-item table-item_reverse">
+                        <div className="table-item__indicstor table-item__indicstor_reverse"></div>
                         <div className="table-item__card">
                             <p className="margin-none">10:00</p>
                             <p className="margin-none">Завтрак</p>

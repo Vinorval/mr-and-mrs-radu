@@ -1,0 +1,11 @@
+@media screen and (min-width: 768px) {
+    .table-item_reverse {
+        grid-column: 2 / 3;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .table-item_reverse {
+        grid-column: 2 / 3;
+    }
+}

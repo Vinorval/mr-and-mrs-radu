@@ -7,3 +7,21 @@
     top: -8px;
     border-radius: 50%;
 }
+
+@media screen and (min-width: 768px) {
+    .table-item__indicstor {
+        width: 20px;
+        height: 20px;
+        top: 12px;
+        left: calc(100% + 5px);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .table-item__indicstor {
+        width: 20px;
+        height: 20px;
+        top: 12px;
+        left: calc(100% + 5px);
+    }
+}
