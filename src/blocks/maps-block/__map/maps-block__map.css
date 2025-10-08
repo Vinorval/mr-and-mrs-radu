@@ -2,3 +2,9 @@
     border-radius: 10px;
     width: 100%;
 }
+
+@media screen and (min-width: 920px) {
+    .maps-block__map {
+        height: 320px;
+    }
+}

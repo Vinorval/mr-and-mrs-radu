@@ -23,7 +23,7 @@ const Maps = () => {
             <div className="adress" >
                 <div className="adress__title">
                     <img alt="location-zags" src={ZagsLocation} />
-                    <h3 className="margin-none fs-32 fw-400">ЗАГС</h3>
+                    <h3 className="margin-none fw-400">ЗАГС</h3>
                 </div>
                 <p className="adress__adress mx-auto">Адрес: 1-я Красноармейская улица, 6</p>
                 <div className="maps-block">

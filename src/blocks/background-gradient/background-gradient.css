@@ -3,9 +3,15 @@
     position: absolute;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: -1;
     width: 100%;
     height: 100%;
-    background: radial-gradient(723px 813px at -5% 135%, rgba(184, 125, 88, 1) 0%, rgba(184, 125, 88, 0) 100%),
-                radial-gradient(564px 494px at 94% 5%, rgba(151, 193, 229, 0.55) 0%, rgba(151, 193, 229, 0) 100%);
+    background: radial-gradient(723px 813px at 110% 120%, rgba(250, 181, 147, 0.8) 0%, rgba(250, 181, 157, 0) 100%),
+                radial-gradient(564px 494px at 6% 10%, rgba(151, 193, 229, 1) 0%, rgba(151, 193, 229, 0) 100%)
+}
+
+@media screen and (min-width: 920px) {
+    .background-gradient {
+        display: block;
+    }
 }

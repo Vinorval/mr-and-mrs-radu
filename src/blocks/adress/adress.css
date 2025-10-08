@@ -2,3 +2,9 @@
     display: grid;
     gap: 14px;
 }
+
+@media screen and (min-width: 1200px) {
+    .adress {
+        gap: 30px;
+    }
+}

@@ -3,3 +3,11 @@
     display: grid;
     gap: 8px;
 }
+
+@media screen and (min-width: 920px) {
+    .maps-block__text {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+}

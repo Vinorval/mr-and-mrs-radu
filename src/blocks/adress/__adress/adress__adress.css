@@ -1,4 +1,10 @@
 .adress__adress {
     text-align: start;
-    width: 95%;
+    width: 90%;
+}
+
+@media screen and (min-width: 550px) {
+    .adress__adress {
+        text-align: center;
+    }
 }
