@@ -1,3 +1,29 @@
 .card_type_small {
-    max-height: 210px;
+    max-height: 230px;
+}
+
+@media screen and (min-width: 360px) {
+    .card_type_small {
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .card_type_small {
+        height: 230px;
+        padding: 10px 5px 70px 5px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .card_type_small {
+        height: 230px;
+        padding: 10px;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .card_type_small {
+        height: 180px;
+    }
 }
