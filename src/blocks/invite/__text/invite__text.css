@@ -2,4 +2,23 @@
     width: 95%;
     background-color: rgba(198, 219, 242, 0.5);
     border-radius: 12px;
+    max-width: 740px;
+}
+
+@media screen and (min-width: 768px) {
+    .invite__text {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .invite__text {
+        background: none;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .invite__text {
+        width: 90%;
+    }
 }
