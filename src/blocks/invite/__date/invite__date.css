@@ -3,4 +3,6 @@
     padding: 5px 20px;
     background: #C1DBF2;
     border-radius: 12px;
+    display: flex;
+    gap: 6px;
 }

@@ -1,0 +1,50 @@
+@font-face {
+    src: url(./Ubuntu-Sans/static/UbuntuSans-Light.ttf);
+    font-family: 'Ubuntu-Sans';
+}
+
+@font-face {
+    src: url(./Ubuntu-Sans/static/UbuntuSans-SemiBold.ttf);
+    font-family: 'Ubuntu-Sans';
+    font-weight: 600;
+}
+
+@font-face {
+    src: url(./Chiron-Sung/static/ChironSungHK-Light.ttf);
+    font-family: 'Chiron-Sung';
+}
+
+@font-face {
+    src: url(./Chiron-Sung/static/ChironSungHK-SemiBold.ttf);
+    font-family: 'Chiron-Sung';
+    font-weight: semibold;
+}
+
+@font-face {
+    src: url(./Philosopher/Philosopher-Regular.ttf);
+    font-family: 'Philosopher';
+}
+
+@font-face {
+    src: url(./Philosopher/Philosopher-Bold.ttf);
+    font-family: 'Philosopher';
+    font-weight: semibold;
+}
+
+@font-face {
+    src: url(./Caveat/static/Caveat-Regular.ttf);
+    font-family: 'Caveat';
+    font-weight: semibold;
+}
+
+@font-face {
+    src: url(./Amatic/AmaticSC-Regular.ttf);
+    font-family: 'Amatic';
+    font-weight: semibold;
+}
+
+@font-face {
+    src: url(./Amatic/AmaticSC-Bold.ttf);
+    font-family: 'Amatic';
+    font-weight: semibold;
+}

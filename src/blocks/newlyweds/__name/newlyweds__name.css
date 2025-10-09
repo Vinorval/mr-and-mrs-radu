@@ -1,6 +1,7 @@
 .newlyweds__name {
     margin: auto;
     margin-top: 8px;
+    font-family: 'Amatic';
 }
 
 @media screen and (min-width: 1024px) {
