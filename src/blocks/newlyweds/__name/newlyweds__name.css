@@ -1,4 +1,10 @@
 .newlyweds__name {
     margin: auto;
-    margin-top: 50px;
+    margin-top: 8px;
+}
+
+@media screen and (min-width: 1024px) {
+    .newlyweds__name {
+        margin: 0;
+    }
 }

@@ -7,7 +7,7 @@ import Bride from "../../images/newlyweds/bride.jpg";
 const Newlyweds = () => {
     return (
         <section className="newlyweds" >
-            <div className="newlyweds__card mx-auto" >
+            <div className="newlyweds__card" >
                 <div className="newlyweds__photo-block" >
                     <img alt="photo newlyweds" className="newlyweds__photo" src={Groom} />
                     <p className="mx-auto fs-24" >Илья</p>
@@ -17,13 +17,13 @@ const Newlyweds = () => {
                     <p className="newlyweds__name fs-32" >Жених</p>
                 </div>
             </div>
-            <div className="newlyweds__card mx-auto" >
-                <div className="newlyweds__photo-block newlyweds__card_second" >
+            <div className="newlyweds__card newlyweds__card_second" >
+                <div className="newlyweds__photo-block newlyweds__photo-block_second" >
                     <img alt="photo newlyweds" className="newlyweds__photo" src={Bride} />
                     <p className="mx-auto fs-24" >Лера</p>
                 </div>
                 <div className="newlyweds__indicator newlyweds__indicator_second">
-                    <img alt="arrou" className="newlyweds__arrou" src={ArrSecond} />
+                    <img alt="arrou" className="newlyweds__arrou newlyweds__arrou_second" src={ArrSecond} />
                     <p className="newlyweds__name fs-32" >Невеста</p>
                 </div>
             </div>

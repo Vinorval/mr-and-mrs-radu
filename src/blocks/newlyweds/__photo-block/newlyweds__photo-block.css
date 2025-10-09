@@ -1,5 +1,6 @@
 .newlyweds__photo-block {
     width: 72%;
+    max-width: 330px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,4 +9,12 @@
     gap: 12px;
     margin: auto;
     transform: rotate(-5deg);
+}
+
+@media screen and (min-width: 1024px) {
+    .newlyweds__photo-block {
+        width: 60%;
+        transform: rotate(-10deg);
+        margin: 0;
+    }
 }

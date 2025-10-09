@@ -1,3 +1,5 @@
-.newlyweds__card_second {
-    transform: rotate(5deg);
+@media screen and (min-width: 1024px) {
+    .newlyweds__card_second {
+        flex-direction: column-reverse;
+    }
 }

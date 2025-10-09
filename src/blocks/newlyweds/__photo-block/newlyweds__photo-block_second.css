@@ -1,0 +1,9 @@
+.newlyweds__photo-block_second {
+    transform: rotate(5deg);
+}
+
+@media screen and (min-width: 1024px) {
+    .newlyweds__photo-block_second {
+        transform: rotate(10deg);  
+    }
+}

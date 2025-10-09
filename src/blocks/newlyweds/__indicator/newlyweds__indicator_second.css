@@ -1,3 +1,12 @@
 .newlyweds__indicator_second {
     flex-direction: row-reverse;
 }
+
+@media screen and (min-width: 1024px) {
+    .newlyweds__indicator_second {
+        align-items: flex-start;
+        top: 50px;
+        left: 0;
+        right: calc(100% - 20%);
+    }
+}

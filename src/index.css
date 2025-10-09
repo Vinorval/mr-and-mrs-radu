@@ -21,8 +21,10 @@
 @import url(./blocks/newlyweds/newlyweds.css);
 @import url(./blocks//newlyweds/__card/newlyweds__card.css);
 @import url(./blocks/newlyweds/__photo-block/newlyweds__photo-block.css);
+@import url(./blocks/newlyweds/__photo-block/newlyweds__photo-block_second.css);
 @import url(./blocks/newlyweds/__photo/newlyweds__photo.css);
 @import url(./blocks/newlyweds/__arrou/newlyweds__arrou.css);
+@import url(./blocks/newlyweds/__arrou/newlyweds__arrou_second.css);
 @import url(./blocks/newlyweds/__name/newlyweds__name.css);
 @import url(./blocks/newlyweds/__card/newlyweds__card_second.css);
 @import url(./blocks/newlyweds/__indicator/newlyweds__indicator.css);

@@ -1,6 +1,6 @@
 .newlyweds__arrou {
-    width: 177px;
-    object-fit: cover;
+    width: 140px;
+    object-fit: contain;
     z-index: 2;
     position: relative;
     margin-top: -144px;
