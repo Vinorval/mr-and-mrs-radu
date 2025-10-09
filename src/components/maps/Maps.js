@@ -4,7 +4,7 @@ import ZagsLocation from "../../images/location-zags.svg";
 const Maps = () => {
     return (
         <section className="maps-section" >
-            <h2 className="margin-none fs-32 fw-400" >Место проведения</h2>
+            <h2 className="margin-none fs-24 fw-400" >Место проведения</h2>
             <div className="adress" >
                 <div className="adress__title">
                     <img alt="location-house" src={HouseLocation} />

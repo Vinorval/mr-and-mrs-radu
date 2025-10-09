@@ -14,7 +14,7 @@ const Ruls = () => {
     return (
         <section className="rules-section" >
             <div className="cards-block">
-                <h2 className="margin-none fw-400 fs-32">Полезные рекомендации</h2>
+                <h2 className="margin-none fw-400 fs-24">Полезные рекомендации</h2>
                 <ul className="cards-block__list margin-none">
                     <div className="card card_type_small" >
                         <img alt="symbol card" src={happy} />
@@ -56,7 +56,7 @@ const Ruls = () => {
                 </ul>
             </div>
             <div className="cards-block">
-                <h2 className="margin-none fw-400 fs-32">Правила проживания в коттедже</h2>
+                <h2 className="margin-none fw-400 fs-24">Правила проживания в коттедже</h2>
                 <ul className="cards-block__list margin-none">
                     <div className="card card_type_big" >
                         <img alt="symbol card" src={smoke} />

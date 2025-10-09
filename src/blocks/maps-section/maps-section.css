@@ -6,3 +6,9 @@
     gap: 30px;
     position: relative;
 }
+
+@media screen and (min-width: 920px) {
+    .maps-section {
+        gap: 50px;
+    }
+}

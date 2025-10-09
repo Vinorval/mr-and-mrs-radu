@@ -6,3 +6,9 @@
     align-items: center;
     text-align: center;
 }
+
+@media screen and (min-width: 920px) {
+    .table-section {
+        margin-top: 50px;
+    }
+}

@@ -1,3 +1,9 @@
 .fs-24 {
     font-size: 24px;
 }
+
+@media screen and (min-width: 1024px) {
+    .fs-24 {
+        font-size: 32px;
+    }
+}

@@ -18,19 +18,19 @@ const Promo = ({ timer }) => {
                     <p className="timer__title margin-none fs-20" >До начала свадьбы осталось:</p>
                     <div>
                         <p className="margin-none fw-600 fs-24" >{timer.days}</p>
-                        <p className="margin-none" >дней</p>
+                        <p className="margin-none fs-20" >дней</p>
                     </div>
                     <div>
                         <p className="margin-none fw-600 fs-24" >{timer.hours}</p>
-                        <p className="margin-none" >часов</p>
+                        <p className="margin-none fs-20" >часов</p>
                     </div>
                     <div>
                         <p className="margin-none fw-600 fs-24" >{timer.minutes}</p>
-                        <p className="margin-none" >минут</p>
+                        <p className="margin-none fs-20" >минут</p>
                     </div>
                     <div>
                         <p className="margin-none fw-600 fs-24" >{timer.seconds}</p>
-                        <p className="margin-none" >секунд</p>
+                        <p className="margin-none fs-20" >секунд</p>
                     </div>
                 </div>
             </div>
