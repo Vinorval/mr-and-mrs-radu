@@ -19,6 +19,7 @@
 @import url(./blocks/adress/__adress/adress__adress.css);
 
 @import url(./blocks/newlyweds/newlyweds.css);
+@import url(./blocks/newlyweds/newlyweds_background.css);
 @import url(./blocks//newlyweds/__card/newlyweds__card.css);
 @import url(./blocks/newlyweds/__photo-block/newlyweds__photo-block.css);
 @import url(./blocks/newlyweds/__photo-block/newlyweds__photo-block_second.css);

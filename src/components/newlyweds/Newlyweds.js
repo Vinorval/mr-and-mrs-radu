@@ -7,6 +7,7 @@ import Bride from "../../images/newlyweds/bride.jpg";
 const Newlyweds = () => {
     return (
         <section className="newlyweds" >
+            <div className="newlyweds_background" >
             <div className="newlyweds__card" >
                 <div className="newlyweds__photo-block" >
                     <img alt="photo newlyweds" className="newlyweds__photo" src={Groom} />
@@ -26,6 +27,7 @@ const Newlyweds = () => {
                     <img alt="arrou" className="newlyweds__arrou newlyweds__arrou_second" src={ArrSecond} />
                     <p className="newlyweds__name fs-32" >Невеста</p>
                 </div>
+            </div>
             </div>
         </section>
     )

@@ -1,16 +1,4 @@
 .newlyweds {
     background-color: #E7F0F9;
     padding: 60px 0;
-    display: grid;
-    gap: 70px;
-}
-
-@media screen and (min-width: 1024px) {
-    .newlyweds {
-        display: flex;
-        min-height: 480px;
-        justify-content: space-between;
-        max-width: 1111px;
-        margin: auto;
-    }
 }
