@@ -1,44 +1,44 @@
 .card {
     display: flex;
     flex-direction: column;
-    padding: 10px 5px;
+    padding: 10px 15px;
     gap: 16px;
     align-items: center;
     background-color: white;
     border-radius: 10px;
-    height: 360px;
-    width: 90%;
+    height: 400px;
+    width: 80%;
 }
 
 @media screen and (min-width: 360px) {
     .card {
-        height: 310px;
+        height: 335px;
     }
 }
 
 @media screen and (min-width: 480px) {
     .card {
-        height: 250px;
+        height: 265px;
     }
 }
 
 @media screen and (min-width: 768px) {
     .card {
         height: 290px;
-        width: 45%;
+        width: 44%;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .card {
         height: 320px;
-        width: 30%;
+        width: 29%;
     }
 }
 
 @media screen and (min-width: 1300px) {
     .card {
-        height: 250px;
+        height: 270px;
         width: 30%;
     }
 }

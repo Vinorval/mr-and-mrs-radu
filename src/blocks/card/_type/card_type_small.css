@@ -1,10 +1,10 @@
 .card_type_small {
-    max-height: 230px;
+    max-height: 245px;
 }
 
 @media screen and (min-width: 360px) {
     .card_type_small {
-        height: 200px;
+        height: 225px;
     }
 }
 
