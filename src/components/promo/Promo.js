@@ -7,7 +7,7 @@ const Promo = ({ timer }) => {
             <div className="invite__skroll-block">
                 <div className="invite__marryned">
                     <p className="margin-none fs-32 ff-philosopher" >Илья</p>
-                    <img src={Heard} alt="heart" />
+                    <div className="heart" ></div>
                     <p className="margin-none fs-32 ff-philosopher" >Лера</p>
                 </div>
                 <p className="margin-none invite__text" >Мы рады пригласить вас на торжество, которое станет одним из самых важных и запоминающихся событий в нашей жизни. Ваше присутствие сделает этот день еще более особенным и значимым для нас. Именно рядом с самыми близкими людьми мы хотим отпраздновать начало нового этапа нашей совместной жизни.</p>

@@ -1,6 +1,7 @@
 @import url(./fonts/fonts.css);
 
 @import url(./blocks/promo/promo.css);
+@import Url(./blocks/heart/heart.css);
 
 @import url(./blocks/invite/invite.css);
 @import url(./blocks/invite/__skroll-block/invite__skroll-block.css);
