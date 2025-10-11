@@ -60,6 +60,10 @@
 @import url(./blocks/card/_type/card_type_small.css);
 @import url(./blocks/card/_type/card_type_big.css);
 
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__point/footer__point.css);
+
 @import url(./blocks/margin-none/margin-none.css);
 @import url(./blocks/mx-auto/mx-auto.css);
 

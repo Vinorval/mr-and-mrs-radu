@@ -76,10 +76,10 @@ const Ruls = () => {
                     </div>
                 </ul>
             </div>
-            <div>
-                <p>С любовью, Илья и Лера</p>
-                <div />
-                <p>MrAndMrsRadu.com</p>
+            <div className="footer">
+                <p className="margin-none" >С любовью, Илья и Лера</p>
+                <div className="footer__point" />
+                <p className="margin-none footer__link" >MrAndMrsRadu.com</p>
             </div>
         </section>
     )
