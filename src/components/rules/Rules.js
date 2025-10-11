@@ -79,7 +79,7 @@ const Ruls = () => {
             <div className="footer">
                 <p className="margin-none" >С любовью, Илья и Лера</p>
                 <div className="footer__point" />
-                <p className="margin-none footer__link" >MrAndMrsRadu.com</p>
+                <p onClick={() => { return window.scrollTo(0, 0); }} className="margin-none footer__link" >MrAndMrsRadu.com</p>
             </div>
         </section>
     )
