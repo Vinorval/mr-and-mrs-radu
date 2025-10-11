@@ -15,7 +15,7 @@ const Newlyweds = () => {
                 </div>
                 <div className="newlyweds__indicator">
                     <img alt="arrou" className="newlyweds__arrou" src={ArrFirst} />
-                    <p className="newlyweds__name fs-32" >Жених</p>
+                    <p className="newlyweds__name fs-3m" >Жених</p>
                 </div>
             </div>
             <div className="newlyweds__card newlyweds__card_second" >
@@ -25,7 +25,7 @@ const Newlyweds = () => {
                 </div>
                 <div className="newlyweds__indicator newlyweds__indicator_second">
                     <img alt="arrou" className="newlyweds__arrou newlyweds__arrou_second" src={ArrSecond} />
-                    <p className="newlyweds__name fs-32" >Невеста</p>
+                    <p className="newlyweds__name fs-3m" >Невеста</p>
                 </div>
             </div>
             </div>
