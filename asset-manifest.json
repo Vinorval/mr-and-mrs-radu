@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mr-and-mrs-radu/static/css/main.c06dc337.css",
+    "main.css": "/mr-and-mrs-radu/static/css/main.a562de9b.css",
     "main.js": "/mr-and-mrs-radu/static/js/main.4ff985e3.js",
     "static/js/453.01010390.chunk.js": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js",
     "static/media/ChironSungHK-SemiBold.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-SemiBold.414ddcb85931ace19700.ttf",
@@ -15,18 +15,19 @@
     "static/media/bride.jpg": "/mr-and-mrs-radu/static/media/bride.c2fc134e25717534d95e.jpg",
     "static/media/AmaticSC-Bold.ttf": "/mr-and-mrs-radu/static/media/AmaticSC-Bold.a3a400057166c52c1ed6.ttf",
     "static/media/AmaticSC-Regular.ttf": "/mr-and-mrs-radu/static/media/AmaticSC-Regular.fd9971162ff94dc53856.ttf",
-    "static/media/background-phone.jpg": "/mr-and-mrs-radu/static/media/background-phone.68268419216839492c64.jpg",
+    "static/media/background-promo-phone.jpg": "/mr-and-mrs-radu/static/media/background-promo-phone.92f7e406e22bdaa77f6f.jpg",
     "static/media/Philosopher-Regular.ttf": "/mr-and-mrs-radu/static/media/Philosopher-Regular.c11f3ae1b771eefbeddf.ttf",
     "static/media/Philosopher-Bold.ttf": "/mr-and-mrs-radu/static/media/Philosopher-Bold.414aa611bc5a043fb490.ttf",
+    "static/media/photo.jpg": "/mr-and-mrs-radu/static/media/photo.5eca4abca55c7e67e47a.jpg",
     "static/media/location-zags.svg": "/mr-and-mrs-radu/static/media/location-zags.56056e25b77fbaae4f3abdc3a41e2c17.svg",
     "static/media/location-house.svg": "/mr-and-mrs-radu/static/media/location-house.1400e7e9f9d212112e44f691b6a2e651.svg",
     "index.html": "/mr-and-mrs-radu/index.html",
-    "main.c06dc337.css.map": "/mr-and-mrs-radu/static/css/main.c06dc337.css.map",
+    "main.a562de9b.css.map": "/mr-and-mrs-radu/static/css/main.a562de9b.css.map",
     "main.4ff985e3.js.map": "/mr-and-mrs-radu/static/js/main.4ff985e3.js.map",
     "453.01010390.chunk.js.map": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c06dc337.css",
+    "static/css/main.a562de9b.css",
     "static/js/main.4ff985e3.js"
   ]
 }
