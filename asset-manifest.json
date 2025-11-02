@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/mr-and-mrs-radu/static/css/main.5de1d3a3.css",
-    "main.js": "/mr-and-mrs-radu/static/js/main.6849c5f9.js",
+    "main.css": "/mr-and-mrs-radu/static/css/main.b00b0d84.css",
+    "main.js": "/mr-and-mrs-radu/static/js/main.a27ceee8.js",
     "static/js/453.01010390.chunk.js": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js",
     "static/media/ChironSungHK-SemiBold.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-SemiBold.414ddcb85931ace19700.ttf",
     "static/media/ChironSungHK-Light.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-Light.01e949dcb16ee742898f.ttf",
     "static/media/background-promo.jpg": "/mr-and-mrs-radu/static/media/background-promo.d30485d5189d21837f09.jpg",
     "static/media/UbuntuSans-SemiBold.ttf": "/mr-and-mrs-radu/static/media/UbuntuSans-SemiBold.21bb5eef8096a8ebccec.ttf",
+    "static/media/UbuntuSans-Medium.ttf": "/mr-and-mrs-radu/static/media/UbuntuSans-Medium.45b13878342d5c76c2d9.ttf",
     "static/media/UbuntuSans-Light.ttf": "/mr-and-mrs-radu/static/media/UbuntuSans-Light.16eeff8a7de2783f0e27.ttf",
     "static/media/Arr1.svg": "/mr-and-mrs-radu/static/media/Arr1.4cac92ff21bc05ca87cf8c603cd6c8dd.svg",
     "static/media/Arr2.svg": "/mr-and-mrs-radu/static/media/Arr2.ff52155de2fc78df96fed0bfd3f54880.svg",
@@ -22,12 +23,12 @@
     "static/media/location-zags.svg": "/mr-and-mrs-radu/static/media/location-zags.56056e25b77fbaae4f3abdc3a41e2c17.svg",
     "static/media/location-house.svg": "/mr-and-mrs-radu/static/media/location-house.1400e7e9f9d212112e44f691b6a2e651.svg",
     "index.html": "/mr-and-mrs-radu/index.html",
-    "main.5de1d3a3.css.map": "/mr-and-mrs-radu/static/css/main.5de1d3a3.css.map",
-    "main.6849c5f9.js.map": "/mr-and-mrs-radu/static/js/main.6849c5f9.js.map",
+    "main.b00b0d84.css.map": "/mr-and-mrs-radu/static/css/main.b00b0d84.css.map",
+    "main.a27ceee8.js.map": "/mr-and-mrs-radu/static/js/main.a27ceee8.js.map",
     "453.01010390.chunk.js.map": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5de1d3a3.css",
-    "static/js/main.6849c5f9.js"
+    "static/css/main.b00b0d84.css",
+    "static/js/main.a27ceee8.js"
   ]
 }
