@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mr-and-mrs-radu/static/css/main.f969acc4.css",
-    "main.js": "/mr-and-mrs-radu/static/js/main.6d9a7f7e.js",
+    "main.css": "/mr-and-mrs-radu/static/css/main.7b74bd85.css",
+    "main.js": "/mr-and-mrs-radu/static/js/main.8b103d38.js",
     "static/js/453.01010390.chunk.js": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js",
     "static/media/ChironSungHK-SemiBold.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-SemiBold.414ddcb85931ace19700.ttf",
     "static/media/ChironSungHK-Light.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-Light.01e949dcb16ee742898f.ttf",
@@ -12,7 +12,6 @@
     "static/media/Arr1.svg": "/mr-and-mrs-radu/static/media/Arr1.4cac92ff21bc05ca87cf8c603cd6c8dd.svg",
     "static/media/Arr2.svg": "/mr-and-mrs-radu/static/media/Arr2.ff52155de2fc78df96fed0bfd3f54880.svg",
     "static/media/Caveat-Regular.ttf": "/mr-and-mrs-radu/static/media/Caveat-Regular.1c7dfada8e0bdd917d29.ttf",
-    "static/media/Ubuntu-Light.woff": "/mr-and-mrs-radu/static/media/Ubuntu-Light.0429089c63f602a23d81.woff",
     "static/media/AmaticSC-Bold.ttf": "/mr-and-mrs-radu/static/media/AmaticSC-Bold.a3a400057166c52c1ed6.ttf",
     "static/media/AmaticSC-Regular.ttf": "/mr-and-mrs-radu/static/media/AmaticSC-Regular.fd9971162ff94dc53856.ttf",
     "static/media/background-promo-phone.jpg": "/mr-and-mrs-radu/static/media/background-promo-phone.92f7e406e22bdaa77f6f.jpg",
@@ -24,12 +23,12 @@
     "static/media/location-zags.svg": "/mr-and-mrs-radu/static/media/location-zags.56056e25b77fbaae4f3abdc3a41e2c17.svg",
     "static/media/location-house.svg": "/mr-and-mrs-radu/static/media/location-house.1400e7e9f9d212112e44f691b6a2e651.svg",
     "index.html": "/mr-and-mrs-radu/index.html",
-    "main.f969acc4.css.map": "/mr-and-mrs-radu/static/css/main.f969acc4.css.map",
-    "main.6d9a7f7e.js.map": "/mr-and-mrs-radu/static/js/main.6d9a7f7e.js.map",
+    "main.7b74bd85.css.map": "/mr-and-mrs-radu/static/css/main.7b74bd85.css.map",
+    "main.8b103d38.js.map": "/mr-and-mrs-radu/static/js/main.8b103d38.js.map",
     "453.01010390.chunk.js.map": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f969acc4.css",
-    "static/js/main.6d9a7f7e.js"
+    "static/css/main.7b74bd85.css",
+    "static/js/main.8b103d38.js"
   ]
 }
