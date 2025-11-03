@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mr-and-mrs-radu/static/css/main.158766f2.css",
-    "main.js": "/mr-and-mrs-radu/static/js/main.ea664761.js",
+    "main.css": "/mr-and-mrs-radu/static/css/main.1a9164c2.css",
+    "main.js": "/mr-and-mrs-radu/static/js/main.0a9e88a7.js",
     "static/js/453.01010390.chunk.js": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js",
     "static/media/ChironSungHK-SemiBold.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-SemiBold.414ddcb85931ace19700.ttf",
     "static/media/ChironSungHK-Light.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-Light.01e949dcb16ee742898f.ttf",
@@ -23,12 +23,12 @@
     "static/media/location-zags.svg": "/mr-and-mrs-radu/static/media/location-zags.56056e25b77fbaae4f3abdc3a41e2c17.svg",
     "static/media/location-house.svg": "/mr-and-mrs-radu/static/media/location-house.1400e7e9f9d212112e44f691b6a2e651.svg",
     "index.html": "/mr-and-mrs-radu/index.html",
-    "main.158766f2.css.map": "/mr-and-mrs-radu/static/css/main.158766f2.css.map",
-    "main.ea664761.js.map": "/mr-and-mrs-radu/static/js/main.ea664761.js.map",
+    "main.1a9164c2.css.map": "/mr-and-mrs-radu/static/css/main.1a9164c2.css.map",
+    "main.0a9e88a7.js.map": "/mr-and-mrs-radu/static/js/main.0a9e88a7.js.map",
     "453.01010390.chunk.js.map": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.158766f2.css",
-    "static/js/main.ea664761.js"
+    "static/css/main.1a9164c2.css",
+    "static/js/main.0a9e88a7.js"
   ]
 }
