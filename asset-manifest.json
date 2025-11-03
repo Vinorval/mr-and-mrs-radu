@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/mr-and-mrs-radu/static/css/main.f547a069.css",
-    "main.js": "/mr-and-mrs-radu/static/js/main.f6ed2c16.js",
+    "main.js": "/mr-and-mrs-radu/static/js/main.5f67523d.js",
     "static/js/453.01010390.chunk.js": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js",
     "static/media/ChironSungHK-SemiBold.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-SemiBold.414ddcb85931ace19700.ttf",
     "static/media/ChironSungHK-Light.ttf": "/mr-and-mrs-radu/static/media/ChironSungHK-Light.01e949dcb16ee742898f.ttf",
+    "static/media/groom.jpg": "/mr-and-mrs-radu/static/media/groom.51ab2f3cfe3bd1f13760.jpg",
+    "static/media/bride.jpg": "/mr-and-mrs-radu/static/media/bride.58856aef6d7183d71028.jpg",
     "static/media/background-promo.jpg": "/mr-and-mrs-radu/static/media/background-promo.d30485d5189d21837f09.jpg",
     "static/media/UbuntuSans-SemiBold.ttf": "/mr-and-mrs-radu/static/media/UbuntuSans-SemiBold.21bb5eef8096a8ebccec.ttf",
     "static/media/UbuntuSans-Medium.ttf": "/mr-and-mrs-radu/static/media/UbuntuSans-Medium.45b13878342d5c76c2d9.ttf",
@@ -12,8 +14,6 @@
     "static/media/Arr1.svg": "/mr-and-mrs-radu/static/media/Arr1.4cac92ff21bc05ca87cf8c603cd6c8dd.svg",
     "static/media/Arr2.svg": "/mr-and-mrs-radu/static/media/Arr2.ff52155de2fc78df96fed0bfd3f54880.svg",
     "static/media/Caveat-Regular.ttf": "/mr-and-mrs-radu/static/media/Caveat-Regular.1c7dfada8e0bdd917d29.ttf",
-    "static/media/groom.jpg": "/mr-and-mrs-radu/static/media/groom.55937c8e3ffe7f8bcfb7.jpg",
-    "static/media/bride.jpg": "/mr-and-mrs-radu/static/media/bride.c2fc134e25717534d95e.jpg",
     "static/media/AmaticSC-Bold.ttf": "/mr-and-mrs-radu/static/media/AmaticSC-Bold.a3a400057166c52c1ed6.ttf",
     "static/media/AmaticSC-Regular.ttf": "/mr-and-mrs-radu/static/media/AmaticSC-Regular.fd9971162ff94dc53856.ttf",
     "static/media/background-promo-phone.jpg": "/mr-and-mrs-radu/static/media/background-promo-phone.92f7e406e22bdaa77f6f.jpg",
@@ -24,11 +24,11 @@
     "static/media/location-house.svg": "/mr-and-mrs-radu/static/media/location-house.1400e7e9f9d212112e44f691b6a2e651.svg",
     "index.html": "/mr-and-mrs-radu/index.html",
     "main.f547a069.css.map": "/mr-and-mrs-radu/static/css/main.f547a069.css.map",
-    "main.f6ed2c16.js.map": "/mr-and-mrs-radu/static/js/main.f6ed2c16.js.map",
+    "main.5f67523d.js.map": "/mr-and-mrs-radu/static/js/main.5f67523d.js.map",
     "453.01010390.chunk.js.map": "/mr-and-mrs-radu/static/js/453.01010390.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f547a069.css",
-    "static/js/main.f6ed2c16.js"
+    "static/js/main.5f67523d.js"
   ]
 }
