@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1573d40f.css",
-    "main.js": "/static/js/main.32d86a53.js",
+    "main.css": "/static/css/main.8cf40cfe.css",
+    "main.js": "/static/js/main.3174abba.js",
     "static/js/453.01010390.chunk.js": "/static/js/453.01010390.chunk.js",
     "static/media/ChironSungHK-SemiBold.ttf": "/static/media/ChironSungHK-SemiBold.414ddcb85931ace19700.ttf",
     "static/media/ChironSungHK-Light.ttf": "/static/media/ChironSungHK-Light.01e949dcb16ee742898f.ttf",
@@ -23,12 +23,12 @@
     "static/media/location-zags.svg": "/static/media/location-zags.56056e25b77fbaae4f3abdc3a41e2c17.svg",
     "static/media/location-house.svg": "/static/media/location-house.1400e7e9f9d212112e44f691b6a2e651.svg",
     "index.html": "/index.html",
-    "main.1573d40f.css.map": "/static/css/main.1573d40f.css.map",
-    "main.32d86a53.js.map": "/static/js/main.32d86a53.js.map",
+    "main.8cf40cfe.css.map": "/static/css/main.8cf40cfe.css.map",
+    "main.3174abba.js.map": "/static/js/main.3174abba.js.map",
     "453.01010390.chunk.js.map": "/static/js/453.01010390.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1573d40f.css",
-    "static/js/main.32d86a53.js"
+    "static/css/main.8cf40cfe.css",
+    "static/js/main.3174abba.js"
   ]
 }
